@@ -15,7 +15,7 @@ Download the repo or just the test file `test_booking_a_flight.py`
 
 The test is set to run not in the headless mode, I used that to see how to the test is executed. The test is also
 set to maximise the browser because it sometimes can't seem to locate certain elements.
-Some web elements could be improved a lot, I would try to shorten them in any way possible if I had extra time. I would also add in try catch exceptions to catch any errors and follow the POM structure.
+Some web elements could be improved a lot, I would try to shorten them in any way possible if I had extra time. I would also add in try catch exceptions to catch any errors and follow the POM structure, also add in report generating to have screenshots and be in html format.
 
 Here are some of the resources I used :
 `https://hub.docker.com/
