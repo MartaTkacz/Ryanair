@@ -8,7 +8,7 @@ installed on your local machine.
 
 Download the repo or just the test file `test_booking_a_flight.py`
 
-1.Open terminal in the same folder where you have download the file
+1.  Open terminal in the same folder where you have download the file
 2. `pipenv shell`
 3. `pipenv install selenium, pytest, pytest-selenium`
 4. `pipenv run python -m pytest`
