@@ -24,8 +24,7 @@ https://selenium-python.readthedocs.io/index.html`
 I tried to create a docker file and run the test inside, I managed to get as far as a sample pytest but not a 
 selenium pytest. The pytest working dockerfile is in the repo, to run that you have to execute the following command
 from the terminal where the docker file is located:
-`docker build -t selenium_docker .
-`It runs on python 2.7 which is not ideal.
+`docker build ./ `It runs on python 2.7 which is not ideal.
 
 The docker file is a combinations of things that I found online and modified but I couldn't fully figure
 it out. The initial setup is quiet long and large.
